@@ -7,7 +7,7 @@ Manage accounts and core banking operations with a functional programming approa
 
 ## Description
 
-I developed this system using functional programming before learning object-oriented programming (OOP).
+I developed this system using functional programming.
 My goal was to deepen my understanding of functional programming and to practice effective code organization through a divide-and-conquer approach.
 
 ## Last Update
